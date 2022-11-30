@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/undavallijagadeesh/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=undavallijagadeesh&layout=compact&hide_border=true"  height="192px"/>
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UndavalliJagadeesh&theme=dark)](https://git.io/streak-stats)
