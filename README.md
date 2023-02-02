@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 [![linkedin](https://user-images.githubusercontent.com/84311163/169548532-c5ea6e41-60c3-4c63-ba98-7a297cabce8b.svg)](https://www.linkedin.com/in/jagadeeshundavalli)
 
 
-<a href="https://github.com/undavallijagadeesh/github-readme-stats">
+<a href="https://github.com/undavallijagadeesh/">
   <img  src="https://github-readme-stats.vercel.app/api?username=undavallijagadeesh&theme=highcontrast&show_icons=true&hide_border=true" height="192px" />
 </a>
-<a href="https://github.com/undavallijagadeesh/github-readme-stats">
+<a href="https://github.com/undavallijagadeesh/">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=undavallijagadeesh&layout=compact&hide_border=true"  height="192px"/>
 </a>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=UndavalliJagadeesh&theme=dark)
 
 ## 👨‍💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=UndavalliJagadeesh&theme=dark)
+
