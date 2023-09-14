@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 📫 How to reach me:
-[![gmail](https://user-images.githubusercontent.com/84311163/171583905-e7ca799a-f0ab-4050-93cf-a5c193de08e2.svg)](mailto:20pa1a05h6@vishnu.edu.in)
-[![linkedin](https://user-images.githubusercontent.com/84311163/169548532-c5ea6e41-60c3-4c63-ba98-7a297cabce8b.svg)](https://www.linkedin.com/in/jagadeeshundavalli)
+## 🌐 Social Profiles:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshundavalli)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jagadeeshundavalli)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/20pa1a05h6)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20pa1a05h6)
+
+## 📞 Reach me at:
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20pa1a05h6@vishnu.edu.in)
+
+
 
 
 <a href="https://github.com/undavallijagadeesh/">
