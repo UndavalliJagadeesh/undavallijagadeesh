@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  height="192px"/>
 </a>
 <a href="https://github.com/undavallijagadeesh/">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=dark&hide_border=flase"  height="192px"/>
 <!--  <img  src="https://streak-stats.demolab.com?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px"/> -->
 </a>
 
