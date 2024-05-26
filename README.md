@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/undavallijagadeesh/">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  height="192px"/>
 </a>
+<br/>
 <a href="https://github.com/undavallijagadeesh/">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px" style="text-align: center;" width="900px"/>
 </a>
 
 ## 👨‍💻 Languages
