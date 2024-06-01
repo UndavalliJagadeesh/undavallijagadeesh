@@ -90,3 +90,4 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50"></a>
+<!--<img width="50" border="1" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/>-->
