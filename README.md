@@ -72,7 +72,10 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50"></a>
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/43f557ff-ddb8-4a02-8f55-a56aa004165c" width="50"></a>
+<!--[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)-->
+
+
 
 ## 💾 Databases
 <!--
@@ -90,4 +93,4 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50"></a>
-<!--<img width="50" border="1" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/>-->
+<a href="#"><img width="50" border="1" src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/d7a9634b-81c9-4ee8-bca2-130ec92a905b" alt="JUnit" title="JUnit"/></a>
