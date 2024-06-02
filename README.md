@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20pa1a05h6@vishnu.edu.in)
 -->
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:20pa1a05h6@vishnu.edu.in)
-[![gmail](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jagadeeshundavalli)
-[![gmail](https://skillicons.dev/icons?i=twitter)](https://x.com/jagadeesh_11)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jagadeeshundavalli)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/jagadeesh_11)
 
 
 
