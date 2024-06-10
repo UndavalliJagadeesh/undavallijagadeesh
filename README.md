@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/jagadeesh_11)
 
 
-
+## 🔥 Git Stats
 <a href="#">
   <img  src="https://github-readme-stats.vercel.app/api?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true" height="192px" />
 </a>
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <a href="#">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px" style="text-align: center;" width="900px"/>
 </a>
+
+
+<hr>
 
 ## 👨‍💻 Languages
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
