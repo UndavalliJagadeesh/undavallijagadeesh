@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 -->
-[![Languages](https://skillicons.dev/icons?i=py,java,c,html,css,js)](#)
+[![Languages](https://skillicons.dev/icons?i=java,py,c,html,css,js)](#)
 
 ## 🗃 Libraries
 <!--
