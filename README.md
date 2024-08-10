@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 [![Libraries](https://skillicons.dev/icons?i=flask)](https://github.com/UndavalliJagadeesh)
 -->
 
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
