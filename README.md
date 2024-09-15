@@ -6,14 +6,18 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working ...
--->
 - 🏫 I'm a B.Tech undergraduate
 - 🌱 I’m currently learning Full Stack Web Development and Machine Learning
+-->
+- 🎓 Graduated with Bachelor of Technology degree in Computer Science and Engineering
+- 🌱 I'm a backend developer specializing in Spring Boot and a Machine Learning enthusiast.
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
+![](https://komarev.com/ghpvc/?username=undavallijagadeesh&color=red&label=VISITORS&style=for-the-badge&base=500&abbreviated=true)
 
 ## 🌐 Social Profiles:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshundavalli)
@@ -35,14 +39,14 @@ Here are some ideas to get you started:
 
 ## 🔥 Git Stats
 <a href="#">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true&hide=contribs,prs" height="192px" />
 </a>
 <a href="#">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndavalliJagadeesh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"  height="192px"/>
 </a>
 <br/>
 <a href="#">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px" style="text-align: center;" width="900px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndavalliJagadeesh&theme=highcontrast&hide_border=true"  height="192px" style="text-align: center;" width="900px"/>
 </a>
 
 
@@ -98,3 +102,4 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50"></a>
 <a href="#"><img width="50" border="1" src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/d7a9634b-81c9-4ee8-bca2-130ec92a905b" alt="JUnit" title="JUnit"/></a>
+
