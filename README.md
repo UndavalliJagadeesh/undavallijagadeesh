@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-[![visitorsCount](https://komarev.com/ghpvc/?username=undavallijagadeesh&color=red&label=VISITORS&style=for-the-badge&base=500&abbreviated=true)]()
+[![visitorsCount](https://komarev.com/ghpvc/?username=undavallijagadeesh&color=red&label=VISITORS&style=for-the-badge&abbreviated=true)]()
 
 ## 🌐 Social Profiles:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshundavalli)
