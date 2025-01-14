@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🌐 Social Profiles:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshundavalli)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jagadeeshundavalli)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/20pa1a05h6)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jagadeesh_undavalli)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20pa1a05h6)
 <!--
 <a href="https://www.linkedin.com/in/jagadeeshundavalli"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
