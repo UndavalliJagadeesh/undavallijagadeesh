@@ -74,14 +74,21 @@ Here are some ideas to get you started:
 [![Libraries](https://skillicons.dev/icons?i=flask)](https://github.com/UndavalliJagadeesh)
 -->
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg" width="50"></a>
+<!-- <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit.svg" width="50"></a>
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) -->
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/ce17d484-4d5e-4295-874b-0dad1a07dcdd" width="50" alt="Spring"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/122d81d3-93d1-4299-981a-ae3bc221d75e" width="50" alt="Spring Boot"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/5e568c32-7281-47ec-96a8-3048502cec80" width="50" alt="Numpy"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/a6b54063-42b7-4f3c-ade9-12bd4ed6b767" width="50" alt="Pandas"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/95c0cd59-c527-4766-91e3-037bb88d9c05" width="50" alt="Matplotlib"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/afc66ff7-1a2c-4f69-b170-646842abc6fc" width="50" alt="Flask"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/56f15326-06e5-40d1-a325-5f9d879b9d9d" width="50" alt="Streamlit"></a>
 <a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/43f557ff-ddb8-4a02-8f55-a56aa004165c" width="50"></a>
-<!--[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)-->
 
 
 
@@ -97,9 +104,13 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 [![Tools](https://skillicons.dev/icons?i=git,docker,maven)](https://github.com/UndavalliJagadeesh)
--->
+
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50"></a>
+-->
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/1dee8476-709e-451d-8451-8f834bd1afad" width="50" alt="Git"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/4f9465fb-1a93-44a4-88e3-70250d444f31" width="50" alt="Docker"></a>
+<a href="#"><img src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/3717c73b-98d1-441e-a008-64e3af73db1b" width="50" alt="Maven"></a>
 <a href="#"><img width="50" border="1" src="https://github.com/UndavalliJagadeesh/undavallijagadeesh/assets/84311163/d7a9634b-81c9-4ee8-bca2-130ec92a905b" alt="JUnit" title="JUnit"/></a>
 
